@@ -4,6 +4,16 @@ This is an example e-commerce application built using Multi-Agent Collaboration 
 
 **Built in 7 hours with 400 user messages and over 2000 agent-to-agent messages.**
 
+## 🚀 Live Demo
+
+**🔗 Try it live**: https://925-silver-ecommerce.vercel.app/
+
+**Test Credentials:**
+- **Customer Account**: test@test.com / Agentic!@3
+- **Admin Account**: admin@admin.com / Agentic!@3
+
+Try the full e-commerce experience - browse products, add to cart, checkout, and explore the admin dashboard!
+
 ## 🎯 What This Demonstrates
 
 This project showcases how multiple AI agents can collaborate to build a complete application using:

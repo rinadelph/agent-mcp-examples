@@ -7,6 +7,12 @@ This repository contains example projects demonstrating Multi-Agent Collaboratio
 ### Business CRM
 A comprehensive e-commerce platform built collaboratively by AI agents using MCP in **7 hours** with **400 user messages** and **over 2000 agent-to-agent messages**.
 
+**🔗 Live Demo**: https://925-silver-ecommerce.vercel.app/
+
+**Test Credentials:**
+- **Customer**: test@test.com / Agentic!@3
+- **Admin**: admin@admin.com / Agentic!@3
+
 **Features:**
 - Full Vue.js + Supabase e-commerce application
 - Multi-agent development workflow

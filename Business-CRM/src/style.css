@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Force some basic styles to test if Tailwind is working */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Test class */
+.test-bg {
+  background-color: red !important;
+}

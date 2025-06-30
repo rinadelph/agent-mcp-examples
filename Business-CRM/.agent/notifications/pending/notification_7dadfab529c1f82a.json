@@ -1,0 +1,10 @@
+{
+  "id": "notification_7dadfab529c1f82a",
+  "type": "assistance_request",
+  "source_agent_id": "supabase-worker-1",
+  "task_id": "task_55c10190d58b",
+  "child_task_id": "task_380a381ede3a",
+  "timestamp": "2025-06-29T23:40:11.678921",
+  "description": "Task scope conflict: I am supabase-worker-1 with specific instructions to ONLY work on Unit 4 Authentication System and NOT work on admin panels. However, I've been assigned Unit 7: Admin Panel Implementation. Unit 4 is already complete. Need task reassignment to appropriate worker or scope clarification.",
+  "status": "pending"
+}
